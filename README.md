@@ -44,8 +44,8 @@ We demonstrate the model's practical use by randomly selecting and testing a new
 
 ## PROGRAM:
 ```
-Program Developed by: Someasvar R
-Reg No: 212221230103
+Programe by : Sham Rathan S
+Register.no : 212221230093
 ```
 ### Import Liraries:
 ```
